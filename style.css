@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://ih1.redbubble.net/image.617620589.3438/papergc%2C190x210%2Cw%2Cf8f8f8-pad%2C210x230%2Cf8f8f8.lite-2u1.jpg");
+    background-size: contain;
+}
+
+h1{
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Yeon Sung', cursive;
+}
+
+#form-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+#form {
+    margin-left: 20px;
+}
+
+#form input {
+    display: list-item;
+    margin-bottom: 10px;
+}
+
+#submit{
+    margin-top: 30px;
+}
